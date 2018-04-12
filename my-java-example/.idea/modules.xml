@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example_main.iml" group="java-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-example_test.iml" group="java-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-java-example.iml" filepath="$PROJECT_DIR$/.idea/modules/my-java-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-java-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/my-java-example_main.iml" group="my-java-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-java-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/my-java-example_test.iml" group="my-java-example" />
+    </modules>
+  </component>
+</project>
