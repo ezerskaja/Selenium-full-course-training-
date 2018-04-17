@@ -1,4 +1,4 @@
-group 'by.stqa'
+group 'ru.stqa'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
