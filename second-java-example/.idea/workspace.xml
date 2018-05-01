@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078bd1a7-2402-475f-be3f-defa8e2d77bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ChromeLaunchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirefoxLaunchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirefoxNightlyLaunchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/IELaunchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/myTaskSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.idea/modules/java-example_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.idea/modules/java-example_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.idea/modules/java-example_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.idea/modules/java-example_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.idea/modules/my-java-example_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.idea/modules/my-java-example_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.idea/modules/my-java-example_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.idea/modules/my-java-example_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/java-example/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/java-example/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my-java-example/java-example/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../my-java-example/java-example/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_11_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/second-java-example_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/second-java-example_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/second-java-example_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/second-java-example_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTaskEight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/mySecondTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/mySecondTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/mySecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mySecondTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,11 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myTaskSeven.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myTaskSeven.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/myTaskSeven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="662">
+              <caret line="44" column="62" selection-end-line="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTaskEight.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -390,6 +381,7 @@
         <option value="$PROJECT_DIR$/src/test/java/FirefoxNightlyLaunchTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mySecondTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/myTaskSeven.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyTaskEight.java" />
       </list>
     </option>
   </component>
@@ -477,7 +469,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.myTaskSeven">
+  <component name="RunManager" selected="JUnit.MyTaskEight.myTestEight">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -518,14 +510,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FirefoxNightlyLaunchTest.myFirefoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTaskEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="second-java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirefoxNightlyLaunchTest" />
-      <option name="METHOD_NAME" value="myFirefoxTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="MyTaskEight" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -535,13 +527,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FirefoxNightlyLaunchTest.myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTaskEight.myTestEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="second-java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirefoxNightlyLaunchTest" />
-      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="MyTaskEight" />
+      <option name="METHOD_NAME" value="myTestEight" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -623,17 +615,17 @@
     <list>
       <item itemvalue="JUnit.FirefoxLaunchTest" />
       <item itemvalue="JUnit.FirefoxNightlyLaunchTest" />
-      <item itemvalue="JUnit.FirefoxNightlyLaunchTest.myFirstTest" />
-      <item itemvalue="JUnit.FirefoxNightlyLaunchTest.myFirefoxTest" />
       <item itemvalue="JUnit.myTaskSeven" />
+      <item itemvalue="JUnit.MyTaskEight" />
+      <item itemvalue="JUnit.MyTaskEight.myTestEight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTaskEight.myTestEight" />
+        <item itemvalue="JUnit.MyTaskEight" />
         <item itemvalue="JUnit.myTaskSeven" />
         <item itemvalue="JUnit.FirefoxNightlyLaunchTest" />
         <item itemvalue="JUnit.FirefoxLaunchTest" />
-        <item itemvalue="JUnit.FirefoxNightlyLaunchTest.myFirefoxTest" />
-        <item itemvalue="JUnit.FirefoxNightlyLaunchTest.myFirstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -651,35 +643,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirefoxNightlyLaunchTest - 2018.04.28 at 20h 56m 51s.xml">
-      <configuration name="FirefoxNightlyLaunchTest" configurationId="JUnit" />
+    <history-entry file="MyTaskEight - 2018.05.02 at 00h 05m 33s.xml">
+      <configuration name="MyTaskEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirefoxNightlyLaunchTest - 2018.04.28 at 20h 58m 28s.xml">
-      <configuration name="FirefoxNightlyLaunchTest" configurationId="JUnit" />
+    <history-entry file="MyTaskEight - 2018.05.02 at 00h 06m 07s.xml">
+      <configuration name="MyTaskEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirefoxNightlyLaunchTest - 2018.04.29 at 12h 07m 18s.xml">
-      <configuration name="FirefoxNightlyLaunchTest" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 07m 10s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 18h 49m 59s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 08m 47s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 22h 32m 32s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 08m 48s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 22h 35m 23s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 13m 42s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 23h 08m 01s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 15m 45s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 23h 09m 57s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 23m 24s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 23h 12m 13s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 24m 05s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="myTaskSeven - 2018.05.01 at 23h 16m 26s.xml">
-      <configuration name="myTaskSeven" configurationId="JUnit" />
+    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 24m 57s.xml">
+      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -707,7 +699,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39862543" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39846322" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -722,7 +714,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1097,8 +1089,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/myTaskSeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="662">
+          <caret line="44" column="62" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
