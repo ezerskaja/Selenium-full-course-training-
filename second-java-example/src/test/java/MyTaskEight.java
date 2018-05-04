@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class MyTaskEight {
+    public class MyTaskEight {
     private WebDriver driver;
 
     @Before

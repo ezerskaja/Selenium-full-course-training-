@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="078bd1a7-2402-475f-be3f-defa8e2d77bf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/MyTaskEight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTaskNine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyTaskEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyTaskEight.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="myTaskSeven.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/myTaskSeven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="44" column="62" selection-end-line="58" />
+            <state relative-caret-position="816">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +38,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyTaskEight.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyTaskNine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="80" column="88" selection-start-line="80" selection-start-column="88" selection-end-line="80" selection-end-column="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mySecondTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/mySecondTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTaskEight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskEight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+            <state relative-caret-position="663">
+              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,8 +77,8 @@
       <file leaf-file-name="ChromeLaunchTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ChromeLaunchTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+            <state relative-caret-position="221">
+              <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -382,10 +407,12 @@
         <option value="$PROJECT_DIR$/src/test/java/mySecondTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/myTaskSeven.java" />
         <option value="$PROJECT_DIR$/src/test/java/MyTaskEight.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyTaskForAttempts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyTaskNine.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -469,46 +496,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyTaskEight.myTestEight">
+  <component name="RunManager" selected="JUnit.MyTaskNine">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="FirefoxLaunchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="second-java-example_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirefoxLaunchTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FirefoxNightlyLaunchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="second-java-example_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirefoxNightlyLaunchTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="MyTaskEight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="second-java-example_test" />
@@ -544,11 +537,12 @@
       </option>
       <patterns />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
+    <configuration name="MyTaskForAttempts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="second-java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTaskForAttempts" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -560,12 +554,45 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="myTaskSeven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTaskNine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="second-java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="myTaskSeven" />
+      <option name="MAIN_CLASS_NAME" value="MyTaskNine" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MyTaskNine.myTaskNineFirstA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="second-java-example_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTaskNine" />
+      <option name="METHOD_NAME" value="myTaskNineFirstA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -613,19 +640,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FirefoxLaunchTest" />
-      <item itemvalue="JUnit.FirefoxNightlyLaunchTest" />
-      <item itemvalue="JUnit.myTaskSeven" />
       <item itemvalue="JUnit.MyTaskEight" />
       <item itemvalue="JUnit.MyTaskEight.myTestEight" />
+      <item itemvalue="JUnit.MyTaskForAttempts" />
+      <item itemvalue="JUnit.MyTaskNine" />
+      <item itemvalue="JUnit.MyTaskNine.myTaskNineFirstA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTaskNine" />
+        <item itemvalue="JUnit.MyTaskNine.myTaskNineFirstA" />
+        <item itemvalue="JUnit.MyTaskForAttempts" />
         <item itemvalue="JUnit.MyTaskEight.myTestEight" />
         <item itemvalue="JUnit.MyTaskEight" />
-        <item itemvalue="JUnit.myTaskSeven" />
-        <item itemvalue="JUnit.FirefoxNightlyLaunchTest" />
-        <item itemvalue="JUnit.FirefoxLaunchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -643,70 +670,70 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTaskEight - 2018.05.02 at 00h 05m 33s.xml">
-      <configuration name="MyTaskEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 10h 37m 52s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight - 2018.05.02 at 00h 06m 07s.xml">
-      <configuration name="MyTaskEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 10h 39m 59s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 07m 10s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 10h 41m 10s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 08m 47s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 10h 41m 43s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 08m 48s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 11h 54m 43s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 13m 42s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskForAttempts - 2018.05.03 at 11h 57m 32s.xml">
+      <configuration name="MyTaskForAttempts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 15m 45s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskNine - 2018.05.05 at 00h 58m 11s.xml">
+      <configuration name="MyTaskNine" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 23m 24s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskNine - 2018.05.05 at 00h 59m 27s.xml">
+      <configuration name="MyTaskNine" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 24m 05s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskNine - 2018.05.05 at 01h 00m 38s.xml">
+      <configuration name="MyTaskNine" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTaskEight_myTestEight - 2018.05.02 at 00h 24m 57s.xml">
-      <configuration name="MyTaskEight.myTestEight" configurationId="JUnit" />
+    <history-entry file="MyTaskNine - 2018.05.05 at 01h 13m 30s.xml">
+      <configuration name="MyTaskNine" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.30076838" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.19209659" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="2" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.3529762" />
       <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.2875" />
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.119642854" />
-      <window_info anchor="bottom" id="Find" order="6" />
       <window_info id="Learn" order="7" />
       <window_info anchor="right" id="Gradle" order="0" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39846322" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39846322" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.3281787" />
+      <window_info anchor="bottom" id="Find" order="6" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -718,6 +745,53 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6035">
+          <caret line="355" column="66" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/mySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChromeLaunchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="80" selection-start-line="51" selection-start-column="80" selection-end-line="51" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IELaunchTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -774,10 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#5347#5348#0" expanded="true" />
-            <element signature="e#5387#5388#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,14 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5423">
           <caret line="369" selection-start-line="369" selection-end-line="369" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-            <element signature="e#10310#10449#0" expanded="true" />
-            <element signature="e#10448#10449#0" expanded="true" />
-            <element signature="e#11040#11204#0" expanded="true" />
-            <element signature="e#11203#11204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,10 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#5347#5348#0" expanded="true" />
-            <element signature="e#5387#5388#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,14 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6273">
           <caret line="369" selection-start-line="369" selection-end-line="369" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-            <element signature="e#10310#10449#0" expanded="true" />
-            <element signature="e#10448#10449#0" expanded="true" />
-            <element signature="e#11040#11204#0" expanded="true" />
-            <element signature="e#11203#11204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1006,14 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5423">
           <caret line="369" selection-start-line="369" selection-end-line="369" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-            <element signature="e#10310#10449#0" expanded="true" />
-            <element signature="e#10448#10449#0" expanded="true" />
-            <element signature="e#11040#11204#0" expanded="true" />
-            <element signature="e#11203#11204#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1056,31 +1098,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mySecondTest.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.11.0/4a28111243eb52dd92d7178897e506fbfd6f9545/selenium-ie-driver-3.11.0-sources.jar!/org/openqa/selenium/ie/InternetExplorerDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="102">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ChromeLaunchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="72" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/3.11.0/4a28111243eb52dd92d7178897e506fbfd6f9545/selenium-ie-driver-3.11.0-sources.jar!/org/openqa/selenium/ie/InternetExplorerDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mySecondTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="e#5347#5348#0" expanded="true" />
-            <element signature="e#5387#5388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ChromeLaunchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="72" lean-forward="true" selection-start-line="19" selection-start-column="72" selection-end-line="19" selection-end-column="72" />
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1089,18 +1127,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/myTaskSeven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="44" column="62" selection-end-line="58" />
+        <state relative-caret-position="816">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskForAttempts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1666">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskEight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        <state relative-caret-position="663">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTaskNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="80" column="88" selection-start-line="80" selection-start-column="88" selection-end-line="80" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1110,6 +1175,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -1133,8 +1222,21 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>second-java-example</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: com.google.code.findbugs:jsr305:1.3.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
