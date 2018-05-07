@@ -110,7 +110,7 @@ public class MyTaskNine {
 
             zoneNamesSorted.sort(Comparator.naturalOrder());
 
-            if (! zoneNames.equals(zoneNamesSorted)) {
+            if (!zoneNames.equals(zoneNamesSorted)) {
                 countriesWithUnsortedZones.add(link.substring(link.length()-2));
             }
 
