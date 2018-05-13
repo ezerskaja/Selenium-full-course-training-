@@ -153,6 +153,16 @@ public class MyTaskTen {
             nonMatchParameters.add("Discount price is not bigger than regular price on the product page.");
         }
 
+
+        if (!nonMatchParameters.isEmpty()) {
+            for (String msg : nonMatchParameters) {
+                System.out.println(msg);
+            }
+        }
+
+
+        //Assert.assertTrue(nonMatchParameters.toString(),!nonMatchParameters.isEmpty());
+
     }
 
     boolean isBold (String fontWeight) {
